@@ -1,4 +1,4 @@
-# tic_tac_toe
+# Tic Tac Toe with solara.dev
 Showing how to use solara to have a Tic Tac Toe app that has a nice front end with few lines of code
 
 [Solara](https://solara.dev/) is a a pure Python, React-style web framework. It makes development of web apps very easy removing the need to develop complex front-end, back-end and client-server communication. 
