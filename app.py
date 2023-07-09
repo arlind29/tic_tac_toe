@@ -1,5 +1,5 @@
 import solara
-from .helpers import (
+from helpers import (
     get_board_values, 
     get_init_state, 
     check_winner,
